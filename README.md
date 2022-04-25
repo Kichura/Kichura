@@ -12,4 +12,4 @@ I am a localized bird who does random things on GitHub to try and improve own sk
 
 ![Laptop - ThinkPad Edge E145](https://img.shields.io/badge/ThinkPad-Edge_E145-red?style=plastic&logo=lenovo&logoColor=white)
 ![Mobile - iPhone X](https://img.shields.io/badge/iPhone_X-FFFFFF?style=plastic&logo=apple&logoColor=black)
-![Tablet - iPad 8th Generation](https://img.shields.io/badge/iPad-8th_generation-FFFFFF?style=plastic&logo=apple&logoColor=black)
+![Tablet - iPad 8th Generation](https://img.shields.io/badge/iPad-8th_Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)
