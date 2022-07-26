@@ -12,3 +12,5 @@ I am a localized bird who does random things on GitHub to try and improve own sk
 
 [![Laptop - ThinkPad Edge L430](https://img.shields.io/badge/ThinkPad-Edge_L430-red?style=plastic&logo=lenovo&logoColor=white)](https://en.wikipedia.org/wiki/ThinkPad_E_series#Edge_11%22_(L430))
 [![Mobile - iPhone X](https://img.shields.io/badge/iPhone-X-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/kb/SP770?locale=en_US&viewlocale=en_US) [![Tablet - iPad Air 4th Generation](https://img.shields.io/badge/iPad_Air-4th_Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/kb/SP828?locale=en_US)
+
+*(In memory of [Neruu](https://twitter.com/neruunopants) - Thank you for supporting me, i will miss you)*
