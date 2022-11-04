@@ -6,7 +6,7 @@ I am a localized bird who does random things on GitHub to try and improve own sk
 - 💻 I own and maintain both [MCWine](https://github.com/Kichura/MCWine) and [Minecraft on ARM](https://github.com/Kichura/Minecraft_ARM) as those are my main things to focus on, *(despite the messy additions)*
 - 🗺️ I like to do vacations pretty often in my spare time because i oftenly eat pizza outside and prefer to go out swimming with my personal friends IRL.
 
-<sub><sup><sup>stole this readme from [kennytv](https://github.com/kennytv) and [wafflecoffee](https://github.com/wafflecoffee) just to make my own one out of it. hehe!</sup></sup></sup>
+<sub><sup><sup>stole this readme from [kennytv](https://github.com/kennytv) and [triphora](https://github.com/triphora) just to make my own one out of it. hehe!</sup></sup></sup>
 
 <details><summary>Technical Specifications</summary>
 
