@@ -2,7 +2,7 @@
 I am a localized bird who does random things on GitHub to try and improve own skills one at a time, and i mainly contribute to other projects if i feel like it.
 
 - 🔭 I am a triage for [ViaVersion](https://discord.gg/viaversion) including the [Fabulously Optimized](https://discord.com/invite/fabulously-optimized-859124104644788234) modpack,
-- 🐧 I daily-drive [Fedora Linux](https://fedoraproject.org/spins/kde) on my computer and my own [tiny11 24H2](https://archive.org/details/tiny11-2409) on my laptop because i am satisified with it and don't need a ridiculous windows desktop experience,
+- 🐧 I daily-drive [Fedora Linux](https://fedoraproject.org/spins/kde) on my computer and [Windows Server 2025](https://learn.microsoft.com/en-us/windows-server/get-started/whats-new-windows-server-2025) on my laptop because i am satisified with it and don't need a ridiculous windows desktop experience,
 - 💻 I own and maintain both [MCWine](https://github.com/Kichura/MCWine) and [Minecraft on ARM](https://github.com/Kichura/Minecraft_ARM) as those are my main things to focus on, *(despite the messy additions)*
 - 🐘 Sometimes i post on [Mastodon](https://blobfox.coffee/@Kichura) from time-to-time whenever i feel like it.
 
