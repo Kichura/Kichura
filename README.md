@@ -14,5 +14,3 @@ I am a localized bird who does random things on GitHub to try and improve own sk
 
 [![Laptop - ThinkPad Edge L430](https://img.shields.io/badge/ThinkPad-Edge_L430-red?style=plastic&logo=lenovo&logoColor=white)](https://en.wikipedia.org/wiki/ThinkPad_E_series#Edge_11%22_(L430))
 [![Mobile - iPhone 15 Pro](https://img.shields.io/badge/iPhone-15_Pro-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/en-us/111829) [![Tablet - iPad Air 4th Generation](https://img.shields.io/badge/iPad_Air-4th_Generation-FFFFFF?style=plastic&logo=apple&logoColor=black)](https://support.apple.com/kb/SP828?locale=en_US) [![Misc. - Steam Deck OLED](https://img.shields.io/badge/Steam_Deck-OLED-red?style=plastic&logo=steam&logoColor=white)](https://www.steamdeck.com/en/oled) </details>
-
-[![Kichura's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Kichura)](https://github.com/kichura)
