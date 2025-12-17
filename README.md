@@ -1,10 +1,10 @@
 ### Hello! 🐦
 I am a localized bird who does random things on GitHub to try and improve own skills one at a time, and i mainly contribute to other projects if i feel like it.
 
-- 🔭 I am a triage for [ViaVersion](https://discord.gg/viaversion) including the [Fabulously Optimized](https://discord.com/invite/fabulously-optimized-859124104644788234) modpack,
-- 🐧 I daily-drive [Fedora Linux](https://fedoraproject.org/spins/kde) on my computer and [AlmaLinux](https://almalinux.org) on my laptop because i am satisified with them,
+- 🔭 I am a triager for [ViaVersion](https://discord.gg/viaversion) including the [Fabulously Optimized](https://discord.com/invite/fabulously-optimized-859124104644788234) modpack,
+- 🐧 I daily-drive [Fedora Linux](https://fedoraproject.org/spins/kde) on my computer and [AlmaLinux](https://almalinux.org) on my laptop because I am satisified with them,
 - 💻 I own and maintain both [MCWine](https://github.com/Kichura/MCWine) and [Minecraft on ARM](https://github.com/Kichura/Minecraft_ARM) as those are my main things to focus on, *(despite the messy additions)*
-- 🐘 Sometimes i post on [Mastodon](https://blobfox.coffee/@Kichura) from time-to-time whenever i feel like it.
+- 🐘 Sometimes I post on [Mastodon](https://blobfox.coffee/@Kichura) from time-to-time whenever I feel like it.
 
 <sub><sup><sup>stole this readme from [kennytv](https://github.com/kennytv) and [triphora](https://github.com/triphora) just to make my own one out of it. hehe!</sup></sup></sup>
 
