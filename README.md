@@ -1,7 +1,7 @@
 ### Hello! 🐦
 I am a localized bird who does random things on GitHub to try and improve own skills one at a time, and i mainly contribute to other projects if i feel like it.
 
-- 🔭 I am a triage for [ViaVersion](https://discord.gg/viaversion) including the [Fabulously Optimized](https://discord.com/invite/fabulously-optimized-859124104644788234) modpack,
+- 🔭 I am a triager for [ViaVersion](https://discord.gg/viaversion) including the [Fabulously Optimized](https://discord.com/invite/fabulously-optimized-859124104644788234) modpack,
 - 🐧 I daily-drive [Fedora Linux](https://fedoraproject.org/spins/kde) on my computer and [AlmaLinux](https://almalinux.org) on my laptop because i am satisified with them,
 - 🐘 Sometimes i post on [Mastodon](https://blobfox.coffee/@Kichura) from time-to-time whenever i feel like it.
 
